@@ -1,0 +1,62 @@
+.container{
+    align-items: center
+}
+
+.border{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.pass{
+    float: right;
+}
+
+.continue{
+    margin-top: 10px;
+    padding: 5px 0px 5px 0px;
+    color: white;
+    background-color: #557755;
+    width: 100%;
+}
+
+.accountButton{
+    padding: 5px 0px 5px 0px;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+.poop{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 101px;
+    height: 31px;
+}
+
+#email{
+    width: 100%;
+}
+
+#password{
+    width: 100%
+}
+
+hr{
+    background-color: black;
+}
+
+.help{
+    text-align: center;
+}
+
+.blach{
+    text-align: center;
+    display: flex;
+}
