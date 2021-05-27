@@ -1,0 +1,123 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ccc;
+    text-decoration: none;
+    background-color: #444;
+}
+
+a:active {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.cheese{
+    font-size: 24px;
+}
+
+.holder{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.background{
+    width: 100%;
+    height: 100%;
+}
+
+.appearOnTop{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+}
+
+.meat{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.emp{
+    border: 2px solid black;
+    background-color: #ccc;
+    text-align: center;
+    font-size: 24px;
+}
+
+.title{
+    font-size: 24px;
+}
+
+.theater{
+    width: 85%;
+    height: 85%;
+}
+
+.raisin{
+    text-align: left;
+}
+
+.set{
+    margin-top: 2%;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: #ccc;
+    padding: 10px;
+}
+
+hr{
+    background-color: black;
+    color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+footer{
+    color: white;
+    background-color: black;
+}
+
+.listContainer{
+    padding: 2% 2% 2% 2%;
+}
+
+.map
+{
+    width: 100%;
+}
